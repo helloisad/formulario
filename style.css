@@ -5,15 +5,14 @@ h1{
 
 
 body {
-background:white   
+background:white;   
 }
 
-td{
-  border:1px solid;
-  border-color:black
+table tr td{
+  background:red; 
+  border:1px solid ;
+  border-color:black;
+  
     
 }
 
-td,th(
-  border:1px solid;
-  border color:black; 
